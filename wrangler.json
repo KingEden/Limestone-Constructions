@@ -1,4 +1,8 @@
 {
   "name": "lsc",
+  "compatibility_date": "2026-07-03",
+  "assets": {
+    "directory": "./dist"
+  },
   "pages_build_output_dir": "dist"
 }
